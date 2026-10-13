@@ -41,3 +41,11 @@ Creació de projectes de videojocs amb Roblox Studio i scripts en Lua, treballan
 M'interessen els ordinadors, les xarxes, la tecnologia, la programació i el desenvolupament de videojocs.
 
 El meu objectiu és continuar aprenent, adquirir experiència pràctica i especialitzar-me en ciberseguretat.
+
+## 📫 Contacte
+
+- **GitHub:** [Unaipiabyte](https://github.com/unaipiabyte)
+- **Correu electrònic:** unaiezquerra.piabyte@gmail.com
+
+
+
