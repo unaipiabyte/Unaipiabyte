@@ -21,3 +21,23 @@ En el futur m'agradaria continuar estudiant i especialitzar-me en **ciberseguret
 - **Control de versions:** Git i GitHub.
 - **Documentació:** Markdown.
 - **Edició multimèdia:** Photoshop, Canva, CapCut i DaVinci Resolve.
+
+## 🚀 Projectes
+
+### Configuració d'un servidor Ubuntu
+
+Instal·lació i configuració d'Ubuntu Server en una màquina virtual, treballant amb la terminal i les comandes de Linux.
+
+### Servidor DHCP amb Kea
+
+Configuració d'un servei DHCP per assignar adreces IP automàticament als dispositius d'una xarxa.
+
+### Desenvolupament de jocs a Roblox
+
+Creació de projectes de videojocs amb Roblox Studio i scripts en Lua, treballant la programació i la creativitat.
+
+## 🎯 Interessos i objectius
+
+M'interessen els ordinadors, les xarxes, la tecnologia, la programació i el desenvolupament de videojocs.
+
+El meu objectiu és continuar aprenent, adquirir experiència pràctica i especialitzar-me en ciberseguretat.
